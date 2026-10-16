@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6"
+  }
+}
